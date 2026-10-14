@@ -101,3 +101,4 @@ Contributions are welcome! Before submitting a PR:
 ### License
 
 MIT
+test fix for issue 63
